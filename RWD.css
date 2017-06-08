@@ -10,7 +10,7 @@
 .floating {position: fixed;  right: 50%; top: 180px;  margin-right: -720px; text-align:center; width: 120px;}
 .big p{font-size:1.3em;}
  table, th, td { border: 1px solid #bcbcbc;}
- th, td { width:120px}
+ th, td { width:140px; text-align:center}
 [class="col-"]{width:100%;}
 /*For Mobile*/
 @media only screen and (min-width: 600px){        /*For tablets*/
